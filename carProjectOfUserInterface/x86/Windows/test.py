@@ -1,20 +1,17 @@
-import serial
-from time import sleep,time
-import datetime
-from ExternalCommunication import SerialClass
-Message="{'Status':'1','Operation':'Start'}"
-ReadPort=serial.Serial("COM5",9600)
-sc=SerialClass(ReadPort)
-timestart=time()
-while True:
+import tkinter as tk
+from tkinter import ttk
+from ttkbootstrap import Style
 
-    Start = b'\x03'  # 开头标识
-    End = b'\x04'    # 尾部标识
-    MessageSize=len(Message.encode())
-    Content=Start + Message.encode() + End + str(MessageSize).encode()
-    timenow=time()
-    if float(timenow) - float(timestart) > 10:
-        byte=ReadPort.write(Content)
-    read=ReadPort.read_all()
-    print(read.decode())
-    sleep(0.5)
+root = tk.Tk()
+
+# 创建ttkbootstrap样式对象
+style = Style(theme='journal')
+
+# 创建ttk.Button对象
+button = ttk.Button(root, text='Click me!')
+
+# 设置按键字体大小为20
+style.configure('TButton', font=('TkDefaultFont', 20))
+
+button.pack()
+root.mainloop()

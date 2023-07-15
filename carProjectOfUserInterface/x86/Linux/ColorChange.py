@@ -36,20 +36,7 @@ class animationObj:
         after = ""
         prefix="#"
         while True:
-            beforeAdd,backAdd="",""
-            """if tickForList == 0:
-                after+=prefix
-                for i in range(6):
-                    if self.bigger[i]:
-                        after += str(
-                            self.alphaList[self.alphaList.index(self.colorList1[i])-1])
-                    if self.bigger[i] is False:
-                        after += str(
-                            self.alphaList[self.alphaList.index(self.colorList1[i])+1])
-                    elif self.bigger[i] == 0:
-                        after += str(self.colorList1[i])
-            else:"""
-            
+            beforeAdd,backAdd="",""            
             if self.bigger[tickForColor]:
                 after = str(
                     self.alphaList[self.alphaList.index(self.colorList1[tickForColor])-1])

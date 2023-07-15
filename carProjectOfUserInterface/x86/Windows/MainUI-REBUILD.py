@@ -7,6 +7,9 @@ import tkinter as tk
 import ttkbootstrap as ttk
 from threading import Thread
 from LogSystem import Log
+from datetime import datetime
+from MusicPlayer import Music
+from tkinter import filedialog
 from ttkbootstrap.constants import *
 from ColorChange import animationObj
 from ExternalCommunication import SerialClass
@@ -16,9 +19,12 @@ class CarUI:
 
     def __init__(self):
         self.Restart = 0
+        self.LastSendTime = 0
         self.Close = False
         self.Triggle = False
+        self.MusicStarted = False
         self.Log = Log()
+        self.Music = Music()
         try:
             print(self.Restarted)
         except:
@@ -30,9 +36,11 @@ class CarUI:
         try:
             if self.Triggle:
                 self.Port = self.Log.MainInitalize()["Port"]
+                self.MusicPlayer()
+
             else:
                 self.Port = self.Combox.get()
-            self.SerialLink = serial.Serial(self.Port, 9600, timeout=10)
+            self.SerialLink = serial.Serial(self.Port, 115200, timeout=10)
             self.Community = SerialClass(self.SerialLink)
             self.TransToDashboardTreads()
         except Exception as err:
@@ -42,11 +50,11 @@ class CarUI:
     # Define the start interface, used to link communication port
     def MainUI(self):
         self.root = tk.Tk()
-        ttk.Style("minty")
         # self.root.overrideredirect(True)
         self.ScreenWidth, self.ScreenHeight = self.root.winfo_screenwidth(
         ), self.root.winfo_screenheight()
         self.ScreenWidthMiddle, self.ScreenHeightMidddle = self.ScreenWidth//2, self.ScreenHeight//2
+        ttk.Style("minty").configure("TButton",font=("",self.ScreenHeight//120))
         # root.geometry(f"{ScreenWidth}x{ScreenHeight}")
 
         self.BackgroundCanvas = ttk.Canvas(
@@ -104,13 +112,22 @@ class CarUI:
                                        command=self.RestartMain).place(x=self.ScreenWidth//5, y=self.ScreenHeight//50)
             CloseButton = ttk.Button(self.root, text="Exit", width=self.ScreenWidth//105, style=INFO,
                                      command=self.ExitMain,).place(x=self.ScreenWidth-self.ScreenWidth//4, y=self.ScreenHeight//50)
-            testButton=ttk.Button(self.root, text="test", width=self.ScreenWidth//105, style=INFO,
-                                     command=self.SendMessage,).place(x=self.ScreenWidth-self.ScreenWidth//3, y=self.ScreenHeight//50)
+            ImportFolder = ttk.Button(self.root, text="ImportMusic", width=self.ScreenWidth//130, style=SECONDARY,
+                                      command=self.MusicPlayer,).place(x=self.ScreenWidth//50, y=self.ScreenHeight*0.7)
+            testButton = ttk.Button(self.root, text="test", width=self.ScreenWidth//105, style=INFO,
+                                    command=self.MusicPlayer,).place(x=self.ScreenWidth-self.ScreenWidth//3, y=self.ScreenHeight//50)
+            if self.Triggle:
+                self.MusicController()
+
             while True:
                 reading = self.Community.readBinary()
+                self.SendMessage()
+                time.sleep(1)
+                if self.Music.GetPosition() == -1:
+                    self.Music.Next()
+                
                 if reading != None:
                     ReadList = reading
-                time.sleep(1)
                 self.BackgroundCanvas.delete(KmLabelLeft)
                 self.BackgroundCanvas.delete(KmLabelRight)
                 self.BackgroundCanvas.delete(self.SpeedLeft)
@@ -123,6 +140,11 @@ class CarUI:
                     "SpeedLeft"], font=("", self.ScreenHeight//8), fill="#EDA69F")
                 self.SpeedRight = self.BackgroundCanvas.create_text(self.ScreenWidth-self.ScreenWidth//5, self.ScreenHeight//5, text=ReadList[
                     "SpeedRight"], font=("", self.ScreenHeight//8), fill="#EDA69F")
+                
+                if self.Music.IsPlaying():
+                    self.BackgroundCanvas.delete(self.SongName)
+                    self.SongName = self.BackgroundCanvas.create_text(
+                        self.ScreenWidth//18, self.ScreenHeight*0.65, text=self.Music.GetMusicName(), font=("", self.ScreenHeight//120),width=self.ScreenWidth//12, fill="#AEA6C4")
         except Exception as err:
             Thread(target=self.MessageBoxThread, args=(
                 "Dashboard Error", err)).start()
@@ -245,8 +267,12 @@ class CarUI:
             pass
             Thread(target=self.MessageBoxThread, args=(
                 "Transfer to dashboard Error", err)).start()
+
     def SendMessage(self):
-        self.Community.ProtocalSend("iamamonkey")
+        if time.time() - self.LastSendTime > 2:
+            self.LastSendTime = time.time()
+            args = {'Status': 1, 'Operation': 'yes'}
+            self.Community.ProtocalSend(args=args)
 
     def ExitMain(self):
         self.Close = True
@@ -266,18 +292,54 @@ class CarUI:
                    "To restart the main program, you need to press the restart button for 2 times.")).start()
         if self.Restart == 2:
             self.Restarted = True
-            self.SerialLink.close()
             if self.Close:
-                self.Log.ChangeInitalizeStatus()
-                self.Log.Close()
+                self.ReleaseResource(0)
                 os._exit(0)
             else:
-                self.Log.ChangeInitalizeStatus(1, self.Port)
-                self.Log.Close()
+                self.ReleaseResource(1)
                 self.root.destroy()
                 os.system(sys.executable+" "+sys.argv[0])
                 new = CarUI().Communication()
                 new.Communication()
+
+    def ReleaseResource(self, Status=int):
+        if Status:
+            Port = self.Port
+            Music = self.Music.GetMusic()
+            MusicTime = self.Music.GetPosition()//1000
+            FolderPath = self.Music.GetFolder()
+            self.Log.ChangeInitalizeStatus(
+                Status, Port, Music, MusicTime, FolderPath)
+        else:
+            self.Log.ChangeInitalizeStatus()
+        self.Music.Exit()
+        self.SerialLink.close()
+        self.Log.Close()
+
+    def MusicPlayer(self):
+        if self.Triggle and self.MusicStarted == False:
+            self.Music.LoadAndPlay(int(self.Log.MainInitalize()["MusicNow"]), int(
+                self.Log.MainInitalize()["MusicPosition"]), self.Log.MainInitalize()["MusicPath"], True)
+            self.MusicStarted = True
+        else:
+            self.FolderPath = filedialog.askdirectory()
+            self.Music.GetFiles(self.FolderPath)
+            self.Music.LoadAndPlay()
+        if self.Triggle != True:
+            self.MusicController()
+        Thread(target=self.TopLineAnimation("health"))
+
+    def MusicController(self):
+        ttk.Button(self.root, text="Previous", width=self.ScreenWidth//130, style=SUCCESS,
+                   command=self.Music.Previous,).place(x=self.ScreenWidth//50, y=self.ScreenHeight*0.75)
+        ttk.Button(self.root, text="Next", width=self.ScreenWidth//130, style=SUCCESS,
+                   command=self.Music.Next,).place(x=self.ScreenWidth//50, y=self.ScreenHeight*0.8)
+        ttk.Button(self.root, text="Pause", width=self.ScreenWidth//130, style=SUCCESS,
+                   command=self.Music.Pause,).place(x=self.ScreenWidth//50, y=self.ScreenHeight*0.85)
+        ttk.Button(self.root, text="Unpause", width=self.ScreenWidth//130, style=SUCCESS,
+                   command=self.Music.Unpause,).place(x=self.ScreenWidth//50, y=self.ScreenHeight*0.9)
+        self.SongName = self.BackgroundCanvas.create_text(
+            self.ScreenWidth//23, self.ScreenHeight*0.65, text="No song playing", font=("", self.ScreenHeight//120), fill="#AEA6C4")
 
 
 CarUI()
