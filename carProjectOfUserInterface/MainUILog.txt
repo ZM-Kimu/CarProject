@@ -1,118 +1,229 @@
-{"Status":"0","Port":"COM5"}
-2023-07-12 17:25:55.556118
-Dashboard Error
+{"Status":"0","Port":"COM5","MusicNow":"0","MusicPosition":"0","MusicPath":""}
+/Users/Win10/Desktop/Music"}
+shboard Error
+substring not found
+2023-07-15 11:56:23.553318
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 12:00:31.900494
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 12:01:09.062043
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 12:15:18.542449
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-07-15 12:15:27.567808
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-07-15 12:16:35.358401
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-07-15 12:18:57.056240
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-07-15 12:28:12.082034
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 12:28:20.446490
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 12:28:37.820678
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 12:33:32.111291
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 12:33:49.120370
+Communication Read
 ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
-2023-07-12 17:26:01.718952
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-12 17:27:50.497907
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-12 17:28:04.795312
-Restart Warning
-To Exit the main program, you need to press the Exit button for 2 times.
-2023-07-12 17:28:23.863475
-Restart Warning
-To Exit the main program, you need to press the Exit button for 2 times.
-2023-07-12 19:21:45.152974
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-12 19:22:35.013546
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-12 19:22:45.033993
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-12 19:22:52.944258
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-12 19:26:24.879566
-Dashboard Error
-'utf-8' codec can't decode byte 0x92 in position 0: invalid start byte
-2023-07-12 19:26:33.824644
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-12 19:28:39.875515
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-12 19:28:49.806433
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-12 19:28:56.607230
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-12 19:29:00.585143
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-12 19:29:04.672787
-Restart Warning
-To Exit the main program, you need to press the Exit button for 2 times.
-2023-07-12 19:32:04.576746
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-12 19:32:13.407730
-Restart Warning
-To Exit the main program, you need to press the Exit button for 2 times.
-2023-07-12 19:35:25.367841
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-12 19:36:01.254418
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-12 19:36:06.992017
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-12 19:36:07.169671
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-12 19:36:14.811842
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-12 19:36:32.637371
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-12 19:36:32.809718
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-12 19:37:02.362345
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-12 19:37:10.440834
-Restart Warning
-To Exit the main program, you need to press the Exit button for 2 times.
-2023-07-12 19:37:25.789566
-Restart Warning
-To Exit the main program, you need to press the Exit button for 2 times.
-2023-07-12 20:29:01.086121
-Restart Warning
-To Exit the main program, you need to press the Exit button for 2 times.
-2023-07-12 22:32:39.459238
-Restart Warning
-To Exit the main program, you need to press the Exit button for 2 times.
-2023-07-13 10:22:59.711959
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-13 12:38:41.143511
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-13 12:38:46.145867
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-13 12:43:43.278474
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
-2023-07-13 12:44:01.789085
-Dashboard Error
+2023-07-15 12:33:50.121479
+Communication Send
+WriteFile failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:33:50.134643
+Communication Read
 ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
-2023-07-13 12:44:11.618780
+2023-07-15 12:33:51.140710
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:33:52.159783
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:33:53.183988
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:33:54.185510
+Communication Send
+WriteFile failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:33:54.196525
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:33:55.210312
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:33:56.223747
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:33:57.233645
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:33:58.234868
+Communication Send
+WriteFile failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:33:58.244896
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:33:59.250098
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:00.256544
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:01.270727
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:02.271967
+Communication Send
+WriteFile failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:02.280609
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:03.290481
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:04.296570
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:05.303831
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:06.304091
+Communication Send
+WriteFile failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:06.310633
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:07.324799
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:08.335747
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:09.345088
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:10.346381
+Communication Send
+WriteFile failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:10.351563
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:11.364505
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:12.372959
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:13.380389
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:14.381411
+Communication Send
+WriteFile failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:14.404492
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:15.412827
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:16.417674
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:17.429397
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:18.429767
+Communication Send
+WriteFile failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:18.436294
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:19.445446
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:20.457274
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:21.467583
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:22.468116
+Communication Send
+WriteFile failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:34:22.475292
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 12:56:49.271213
 Restart Warning
 To restart the main program, you need to press the restart button for 2 times.
-2023-07-13 12:44:13.755644
+2023-07-15 12:59:11.458217
+Communication Read
+ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 13:54:31.050998
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 13:54:31.208874
+Communication Read
+byref() argument must be a ctypes instance, not 'NoneType'
+2023-07-15 13:54:31.208874
+Communication Send
+WriteFile failed (OSError(9, '¥Ï¥ó¥É¥ë¤¬Ÿo„¿¤Ç¤¹¡£', None, 6))
+ÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+2023-07-15 13:55:14.171014
+Communication Send
+WriteFile failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+arning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 13:56:39.983292
 Restart Warning
 To Exit the main program, you need to press the Exit button for 2 times.
-2023-07-13 12:44:16.526416
+2023-07-15 14:23:10.213980
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 14:27:39.904862
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 14:27:51.191513
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 14:48:31.794533
 Restart Warning
 To Exit the main program, you need to press the Exit button for 2 times.
-2023-07-13 15:12:18.520985
+2023-07-15 16:30:59.440354
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 16:31:30.265430
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 16:31:38.124693
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 16:31:56.356081
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-07-15 16:32:10.934992
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 16:39:07.391501
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 16:43:49.175978
+Dashboard Error
+list index out of range
+2023-07-15 16:43:52.979310
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 16:57:26.564858
 Restart Warning
 To Exit the main program, you need to press the Exit button for 2 times.
