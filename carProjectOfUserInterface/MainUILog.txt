@@ -1,5 +1,6 @@
 {"Status":"0","Port":"COM5","MusicNow":"0","MusicPosition":"0","MusicPath":""}
-/Users/Win10/Desktop/Music"}
+Users/Win10/Desktop/Music"}
+
 shboard Error
 substring not found
 2023-07-15 11:56:23.553318
@@ -225,5 +226,89 @@ list index out of range
 Restart Warning
 To restart the main program, you need to press the restart button for 2 times.
 2023-07-15 16:57:26.564858
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-07-15 19:57:38.956434
+Connect Error
+could not open port 'COM5': FileNotFoundError(2, '指定されたファイルが見つかりません。', None, 2)
+2023-07-15 19:58:19.930909
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 19:59:12.731067
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 19:59:20.769142
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 19:59:31.301303
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 20:06:32.449175
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-15 20:07:02.126060
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-07-29 19:12:34.687958
+Connect Error
+could not open port 'COM5': FileNotFoundError(2, '指定されたファイルが見つかりません。', None, 2)
+2023-07-29 19:14:41.267869
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-07-30 11:40:46.175520
+Connect Error
+could not open port 'COM5': FileNotFoundError(2, '指定されたファイルが見つかりません。', None, 2)
+2023-07-30 11:42:54.270555
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-30 11:43:31.775670
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-07-30 11:56:02.034245
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-30 12:02:33.814946
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-30 12:04:48.685004
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-30 12:42:57.380803
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-30 12:43:10.703968
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-30 12:43:10.890863
+Communication Read
+byref() argument must be a ctypes instance, not 'NoneType'
+2023-07-30 12:45:02.205801
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-07-30 12:53:21.656546
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-30 12:58:45.078920
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-30 12:58:59.258712
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-07-30 12:59:47.991321
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-30 13:03:16.629996
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-30 13:04:49.622548
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-30 13:05:03.395421
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-07-30 13:14:46.361237
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-07-30 15:06:30.909642
 Restart Warning
 To Exit the main program, you need to press the Exit button for 2 times.

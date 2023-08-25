@@ -1,9 +1,1 @@
-ioasdf\
-asdjfoip
-iaspdfgj
-igadfo
-jigadso
-jiago'
-aijdfg'
-gaij'
-iagdfj
+[0. 0. 0. ... 0. 0. 0.]
