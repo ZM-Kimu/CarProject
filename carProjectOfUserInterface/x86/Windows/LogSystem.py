@@ -30,9 +30,9 @@ class Log:
             Status = self.ChangeInitalizeStatus()
         return Status
 
-    def ChangeInitalizeStatus(self, Status=0, Port="COM5",Music=0,MusicTime=0,Path=""):
+    def ChangeInitalizeStatus(self, Status=0, Port="COM5",BandRate=115200,Music=0,MusicTime=0,Path=""):
         self.Open.seek(0, 0)
-        self.Open.write("{"+f'"Status":"{Status}","Port":"{Port}","MusicNow":"{Music}","MusicPosition":"{MusicTime}","MusicPath":"{Path}"'+"}\n")
+        self.Open.write("{"+f'"Status":"{Status}","Port":"{Port}","BandRate":"{BandRate}","MusicNow":"{Music}","MusicPosition":"{MusicTime}","MusicPath":"{Path}"'+"}\n")
         return {"Status": Status, "Port": Port,"MusicNow":Music,"MusicPosition":MusicTime,"MusicPath":Path}
 
     def BuildLog(self, Title, Text):

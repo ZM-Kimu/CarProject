@@ -1,11 +1,7 @@
-{"Status":"0","Port":"COM5","MusicNow":"0","MusicPosition":"0","MusicPath":""}
-Users/Win10/Desktop/Music"}
+{"Status":"0","Port":"COM5","BandRate":"115200","MusicNow":"0","MusicPosition":"0","MusicPath":""}
 
-shboard Error
-substring not found
-2023-07-15 11:56:23.553318
-Restart Warning
-To restart the main program, you need to press the restart button for 2 times.
+ers/Kimu/Desktop/Music"}
+ss the restart button for 2 times.
 2023-07-15 12:00:31.900494
 Restart Warning
 To restart the main program, you need to press the restart button for 2 times.
@@ -38,139 +34,139 @@ Restart Warning
 To restart the main program, you need to press the restart button for 2 times.
 2023-07-15 12:33:49.120370
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:33:50.121479
 Communication Send
-WriteFile failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+WriteFile failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:33:50.134643
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:33:51.140710
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:33:52.159783
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:33:53.183988
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:33:54.185510
 Communication Send
-WriteFile failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+WriteFile failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:33:54.196525
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:33:55.210312
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:33:56.223747
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:33:57.233645
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:33:58.234868
 Communication Send
-WriteFile failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+WriteFile failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:33:58.244896
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:33:59.250098
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:00.256544
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:01.270727
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:02.271967
 Communication Send
-WriteFile failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+WriteFile failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:02.280609
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:03.290481
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:04.296570
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:05.303831
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:06.304091
 Communication Send
-WriteFile failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+WriteFile failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:06.310633
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:07.324799
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:08.335747
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:09.345088
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:10.346381
 Communication Send
-WriteFile failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+WriteFile failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:10.351563
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:11.364505
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:12.372959
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:13.380389
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:14.381411
 Communication Send
-WriteFile failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+WriteFile failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:14.404492
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:15.412827
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:16.417674
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:17.429397
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:18.429767
 Communication Send
-WriteFile failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+WriteFile failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:18.436294
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:19.445446
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:20.457274
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:21.467583
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:22.468116
 Communication Send
-WriteFile failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+WriteFile failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:34:22.475292
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 12:56:49.271213
 Restart Warning
 To restart the main program, you need to press the restart button for 2 times.
 2023-07-15 12:59:11.458217
 Communication Read
-ClearCommError failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+ClearCommError failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 13:54:31.050998
 Restart Warning
 To restart the main program, you need to press the restart button for 2 times.
@@ -179,11 +175,11 @@ Communication Read
 byref() argument must be a ctypes instance, not 'NoneType'
 2023-07-15 13:54:31.208874
 Communication Send
-WriteFile failed (OSError(9, '¥Ï¥ó¥É¥ë¤¬Ÿo„¿¤Ç¤¹¡£', None, 6))
-ÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+WriteFile failed (OSError(9, 'ï¿½Ï¥ï¿½É¥ë¤¬ï¿½oï¿½ï¿½ï¿½Ç¤ï¿½ï¿½ï¿½', None, 6))
+ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 2023-07-15 13:55:14.171014
 Communication Send
-WriteFile failed (PermissionError(13, '¥Ç¥Ð¥¤¥¹¤¬¥³¥Þ¥ó¥É¤òÕJ×R¤Ç¤­¤Þ¤»¤ó¡£', None, 22))
+WriteFile failed (PermissionError(13, 'ï¿½Ç¥Ð¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¥ï¿½É¤ï¿½ï¿½Jï¿½Rï¿½Ç¤ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 22))
 arning
 To restart the main program, you need to press the restart button for 2 times.
 2023-07-15 13:56:39.983292
@@ -230,7 +226,7 @@ Restart Warning
 To Exit the main program, you need to press the Exit button for 2 times.
 2023-07-15 19:57:38.956434
 Connect Error
-could not open port 'COM5': FileNotFoundError(2, 'Ö¸¶¨¤µ¤ì¤¿¥Õ¥¡¥¤¥ë¤¬ÒŠ¤Ä¤«¤ê¤Þ¤»¤ó¡£', None, 2)
+could not open port 'COM5': FileNotFoundError(2, 'Ö¸ï¿½ï¿½ï¿½ï¿½ï¿½ì¤¿ï¿½Õ¥ï¿½ï¿½ï¿½ï¿½ë¤¬ÒŠï¿½Ä¤ï¿½ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 2)
 2023-07-15 19:58:19.930909
 Restart Warning
 To restart the main program, you need to press the restart button for 2 times.
@@ -251,13 +247,13 @@ Restart Warning
 To Exit the main program, you need to press the Exit button for 2 times.
 2023-07-29 19:12:34.687958
 Connect Error
-could not open port 'COM5': FileNotFoundError(2, 'Ö¸¶¨¤µ¤ì¤¿¥Õ¥¡¥¤¥ë¤¬ÒŠ¤Ä¤«¤ê¤Þ¤»¤ó¡£', None, 2)
+could not open port 'COM5': FileNotFoundError(2, 'Ö¸ï¿½ï¿½ï¿½ï¿½ï¿½ì¤¿ï¿½Õ¥ï¿½ï¿½ï¿½ï¿½ë¤¬ÒŠï¿½Ä¤ï¿½ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 2)
 2023-07-29 19:14:41.267869
 Restart Warning
 To Exit the main program, you need to press the Exit button for 2 times.
 2023-07-30 11:40:46.175520
 Connect Error
-could not open port 'COM5': FileNotFoundError(2, 'Ö¸¶¨¤µ¤ì¤¿¥Õ¥¡¥¤¥ë¤¬ÒŠ¤Ä¤«¤ê¤Þ¤»¤ó¡£', None, 2)
+could not open port 'COM5': FileNotFoundError(2, 'Ö¸ï¿½ï¿½ï¿½ï¿½ï¿½ì¤¿ï¿½Õ¥ï¿½ï¿½ï¿½ï¿½ë¤¬ÒŠï¿½Ä¤ï¿½ï¿½ï¿½Þ¤ï¿½ï¿½ï¿½', None, 2)
 2023-07-30 11:42:54.270555
 Restart Warning
 To restart the main program, you need to press the restart button for 2 times.
@@ -310,5 +306,3320 @@ To restart the main program, you need to press the restart button for 2 times.
 Restart Warning
 To Exit the main program, you need to press the Exit button for 2 times.
 2023-07-30 15:06:30.909642
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-24 20:00:23.420730
+Connect Error
+could not open port 'COM5': FileNotFoundError(2, 'ÏµÍ³ï¿½Ò²ï¿½ï¿½ï¿½Ö¸ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½', None, 2)
+2023-08-24 20:00:27.289403
+Connect Error
+could not open port 'COM5': FileNotFoundError(2, 'ÏµÍ³ï¿½Ò²ï¿½ï¿½ï¿½Ö¸ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½', None, 2)
+2023-08-24 20:00:30.868846
+Connect Error
+could not open port 'COM5': FileNotFoundError(2, 'ÏµÍ³ï¿½Ò²ï¿½ï¿½ï¿½Ö¸ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½', None, 2)
+2023-08-24 20:00:35.343721
+Connect Error
+could not open port 'COM5': FileNotFoundError(2, 'ÏµÍ³ï¿½Ò²ï¿½ï¿½ï¿½Ö¸ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½', None, 2)
+2023-08-24 20:00:38.027936
+Connect Error
+could not open port 'COM5': FileNotFoundError(2, 'ÏµÍ³ï¿½Ò²ï¿½ï¿½ï¿½Ö¸ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½', None, 2)
+2023-08-24 20:00:40.314068
+Connect Error
+could not open port 'COM5': FileNotFoundError(2, 'ÏµÍ³ï¿½Ò²ï¿½ï¿½ï¿½Ö¸ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½', None, 2)
+2023-08-24 20:00:46.162913
+Connect Error
+could not open port 'COM5': FileNotFoundError(2, 'ÏµÍ³ï¿½Ò²ï¿½ï¿½ï¿½Ö¸ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½', None, 2)
+2023-08-24 20:01:26.053103
+Connect Error
+could not open port 'COM5': FileNotFoundError(2, 'ÏµÍ³ï¿½Ò²ï¿½ï¿½ï¿½Ö¸ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½', None, 2)
+2023-08-24 20:02:06.925356
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-24 20:02:07.106426
+Communication Read
+'NoneType' object has no attribute 'hEvent'
+2023-08-24 21:24:47.432832
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 12:56:03.613622
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 12:56:48.865056
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 13:04:08.112471
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 13:05:30.778483
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 13:05:31.699024
+Communication Read
+ReadFile failed (OSError(9, 'ï¿½ï¿½ï¿½ï¿½ï¿½Ð§ï¿½ï¿½', None, 6))
+2023-08-25 13:06:46.699189
+Connect Error
+could not open port 'COM5': FileNotFoundError(2, 'ÏµÍ³ï¿½Ò²ï¿½ï¿½ï¿½Ö¸ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½', None, 2)
+2023-08-25 13:07:02.145515
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:07:02.317865
+Communication Read
+byref() argument must be a ctypes instance, not 'NoneType'
+2023-08-25 13:07:18.636301
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 13:07:18.790887
+Communication Read
+ReadFile failed (OSError(9, 'ï¿½ï¿½ï¿½ï¿½ï¿½Ð§ï¿½ï¿½', None, 6))
+2023-08-25 13:16:24.615878
+Connect Error
+"port" must be None or a string, not <class 'int'>
+2023-08-25 13:25:17.341895
+Auto Detect Error
+Î´ï¿½Òµï¿½Ö¸ï¿½ï¿½ï¿½è±¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è±¸ï¿½Ç·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó»ï¿½ï¿½ï¿½È·Ë¢ï¿½ï¿½ï¿½ï¿½ï¿½
+2023-08-25 13:26:19.036255
+Auto Detect Error
+Î´ï¿½Òµï¿½Ö¸ï¿½ï¿½ï¿½è±¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è±¸ï¿½Ç·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó»ï¿½ï¿½ï¿½È·Ë¢ï¿½ï¿½ï¿½ï¿½ï¿½
+2023-08-25 13:31:06.078211
+Auto Detect Error
+Î´ï¿½Òµï¿½Ö¸ï¿½ï¿½ï¿½è±¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è±¸ï¿½Ç·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó»ï¿½ï¿½ï¿½È·Ë¢ï¿½ï¿½ï¿½ï¿½ï¿½
+2023-08-25 13:31:06.081205
+Connect Error
+"port" must be None or a string, not <class 'int'>
+2023-08-25 13:31:18.995223
+Auto Detect Error
+Î´ï¿½Òµï¿½Ö¸ï¿½ï¿½ï¿½è±¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è±¸ï¿½Ç·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó»ï¿½ï¿½ï¿½È·Ë¢ï¿½ï¿½ï¿½ï¿½ï¿½
+2023-08-25 13:31:18.998215
+Connect Error
+"port" must be None or a string, not <class 'int'>
+2023-08-25 13:31:59.612540
+Auto Detect Error
+Î´ï¿½Òµï¿½Ö¸ï¿½ï¿½ï¿½è±¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è±¸ï¿½Ç·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó»ï¿½ï¿½ï¿½È·Ë¢ï¿½ï¿½ï¿½ï¿½ï¿½
+2023-08-25 13:32:32.655081
+Auto Detect Error
+Î´ï¿½Òµï¿½Ö¸ï¿½ï¿½ï¿½è±¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è±¸ï¿½Ç·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó»ï¿½ï¿½ï¿½È·Ë¢ï¿½ï¿½ï¿½ï¿½ï¿½
+2023-08-25 13:32:43.189375
+Auto Detect Error
+Î´ï¿½Òµï¿½Ö¸ï¿½ï¿½ï¿½è±¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è±¸ï¿½Ç·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó»ï¿½ï¿½ï¿½È·Ë¢ï¿½ï¿½ï¿½ï¿½ï¿½
+2023-08-25 13:33:01.963257
+Auto Detect Error
+Î´ï¿½Òµï¿½Ö¸ï¿½ï¿½ï¿½è±¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è±¸ï¿½Ç·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó»ï¿½ï¿½ï¿½È·Ë¢ï¿½ï¿½ï¿½ï¿½ï¿½
+2023-08-25 13:35:05.576252
+Auto Detect Error
+Î´ï¿½Òµï¿½Ö¸ï¿½ï¿½ï¿½è±¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è±¸ï¿½Ç·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó»ï¿½ï¿½ï¿½È·Ë¢ï¿½ï¿½ï¿½ï¿½ï¿½
+2023-08-25 13:35:10.773559
+Auto Detect Error
+Î´ï¿½Òµï¿½Ö¸ï¿½ï¿½ï¿½è±¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è±¸ï¿½Ç·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó»ï¿½ï¿½ï¿½È·Ë¢ï¿½ï¿½ï¿½ï¿½ï¿½
+2023-08-25 13:38:19.109643
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 13:38:34.507959
+Auto Detect Error
+Î´ï¿½Òµï¿½Ö¸ï¿½ï¿½ï¿½è±¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è±¸ï¿½Ç·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó»ï¿½ï¿½ï¿½È·Ë¢ï¿½ï¿½ï¿½ï¿½ï¿½
+2023-08-25 13:38:44.230149
+Auto Detect Error
+Î´ï¿½Òµï¿½Ö¸ï¿½ï¿½ï¿½è±¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è±¸ï¿½Ç·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó»ï¿½ï¿½ï¿½È·Ë¢ï¿½ï¿½ï¿½ï¿½ï¿½
+2023-08-25 13:42:14.283576
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 13:53:50.360562
+Connect Error
+could not open port 'COM2': FileNotFoundError(2, 'ÏµÍ³ï¿½Ò²ï¿½ï¿½ï¿½Ö¸ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½', None, 2)
+2023-08-25 13:54:00.523112
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 13:54:00.656767
+Communication Read
+byref() argument must be a ctypes instance, not 'NoneType'
+2023-08-25 13:54:17.575077
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 13:56:51.362641
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 13:57:20.813190
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:57:20.989836
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:57:21.968711
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:57:22.140248
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:57:22.764559
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:57:22.938093
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:57:23.281059
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:57:23.435167
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:57:23.840089
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:57:24.616856
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:57:24.865170
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:57:25.076356
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:57:25.178082
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:57:25.272146
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:57:25.683048
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:57:25.955319
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:57:26.090957
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:57:28.723584
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:57:28.874183
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:57:31.694647
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:59:10.530993
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:59:10.701351
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 13:59:11.631234
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 14:01:38.648476
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 14:01:40.867102
+Connect Error
+'BandRate'
+2023-08-25 14:06:36.558541
+Connect Error
+'BandRate'
+2023-08-25 14:08:31.334699
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 14:08:48.530142
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 14:09:15.340681
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 14:09:28.876102
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 14:10:46.666856
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 14:10:46.843091
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 14:10:47.670187
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 14:11:27.034041
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 14:52:18.806060
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 14:53:04.595481
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 14:53:17.253279
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 14:54:57.893127
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 15:59:27.976917
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:27.976917
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:28.987112
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:28.987112
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:29.994863
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:29.994863
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:31.004351
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:31.004351
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:32.014082
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:32.014082
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:33.021473
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:33.021473
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:34.029060
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:34.029060
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:35.034963
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:35.034963
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:36.043080
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:36.043080
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:37.053152
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:37.053152
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:38.072779
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:38.072779
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:39.084679
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:39.084679
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:40.090482
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:40.090482
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:41.102390
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:41.102390
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:42.117080
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:42.117080
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:43.124802
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:43.124802
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:44.137723
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:44.137723
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:45.151625
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:45.151625
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:46.157205
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:46.157205
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:47.201880
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:47.201880
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:48.209724
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:48.209724
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:49.216433
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:49.217419
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:50.223098
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:50.223098
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:51.229195
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:51.229195
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:52.235262
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:52.235262
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:53.245073
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:53.245073
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:54.254247
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:54.254247
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:55.565493
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:55.565493
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:56.580831
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:56.580831
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:57.591958
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:57.591958
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:58.605651
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:58.606648
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:59.626364
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 15:59:59.626364
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:00.636305
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:00.636305
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:01.651719
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:01.651719
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:02.665822
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:02.665822
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:03.675669
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:03.675669
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:04.683123
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:04.683123
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:05.688574
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:05.688574
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:06.697737
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:06.697737
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:07.706592
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:07.706592
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:08.711387
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:08.712384
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:09.718860
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:09.718860
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:10.724769
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:10.724769
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:11.730215
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:11.730215
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:12.739491
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:12.739491
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:13.748800
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:13.749798
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:14.758319
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:14.758319
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:15.769509
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:15.769509
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:16.780047
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:16.780047
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:17.784372
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:17.784372
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:18.796628
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:18.796628
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:19.804176
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:19.804176
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:20.819786
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:20.819786
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:21.826088
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:21.827086
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:22.836589
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:22.836589
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:23.851906
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:23.851906
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:24.873316
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:24.873316
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:25.893260
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:25.893260
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:26.904889
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:26.904889
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:27.908599
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:27.908599
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:28.923744
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:28.923744
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:29.943487
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:29.943487
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:30.949320
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:30.950288
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:31.956168
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:31.957164
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:32.967649
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:32.967649
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:33.981309
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:33.982278
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:34.991294
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:34.991294
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:36.008542
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:36.008542
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:37.014686
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:37.014686
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:38.027303
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:38.027303
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:39.033722
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:39.033722
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:40.040037
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:40.040037
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:41.051189
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:41.051189
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:42.060867
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:42.060867
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:43.072549
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:43.072549
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:44.078339
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:44.078339
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:45.095322
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:45.095322
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:46.105537
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:46.105537
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:47.121833
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:47.979283
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+08-25 16:00:48.125772
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:48.126769
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:49.132667
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:49.132667
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:50.235146
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:50.235146
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:51.246406
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:51.247401
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:52.253609
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:52.253609
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:53.266281
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:53.266281
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:54.270275
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:54.270275
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:55.337234
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:55.337234
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:56.418855
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:56.434812
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:57.522451
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:57.522451
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:58.606637
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:58.606637
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:59.676788
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:00:59.676788
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:00.764287
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:00.765285
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:01.860908
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:01.865893
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:02.963279
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:02.963279
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:04.055905
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:04.055905
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:05.135246
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:05.135246
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:06.228007
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:06.230998
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:07.304016
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:07.304016
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:08.384417
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:08.384417
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:09.455659
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:09.455659
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:10.569848
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:10.569848
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:11.684384
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:11.689338
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:12.766442
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:12.766442
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:13.860031
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:13.860031
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:14.929618
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:14.929618
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:15.997474
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:16.010439
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:17.081932
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:17.087916
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:18.193758
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:18.193758
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:19.280616
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:19.281612
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:20.357347
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:20.370298
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:21.472776
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:21.472776
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:22.543792
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:22.543792
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:23.635866
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:23.635866
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:24.724577
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:24.724577
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:25.819836
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:25.819836
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:26.892716
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:26.892716
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:27.977954
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:27.978948
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:29.072069
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:29.072069
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:30.160263
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:30.160263
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:31.269280
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:31.269280
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:32.366186
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:32.377155
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+es.
+2023-08-25 16:01:32.789660
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 16:01:33.452310
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:34.540099
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:34.563037
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:35.669268
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:35.680272
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:36.767772
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:36.767772
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:37.863235
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:37.863235
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:38.956259
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:38.974213
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+es.
+2023-08-25 16:01:40.059650
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:40.077600
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:41.174451
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:41.192401
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:42.309982
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:42.309982
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:43.388688
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:43.406640
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:44.510837
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:44.510837
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 16:01:45.615158
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:35:45.801674
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:35:45.802671
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:35:46.811973
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:35:46.811973
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:35:47.817353
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:35:47.841290
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 17:35:58.776376
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:35:58.776376
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:35:59.792658
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:35:59.792658
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:00.799356
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:00.799356
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:01.804419
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:01.805416
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:02.820062
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:02.820062
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:03.833999
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:03.833999
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:04.851262
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:04.851262
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:05.866936
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:05.866936
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:06.876757
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:06.876757
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:07.892095
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:07.892095
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:08.897015
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:08.897015
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:09.904001
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:09.904998
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:10.920731
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:10.920731
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:11.952508
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:11.952508
+Communication Send
+WriteFile failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:12.960508
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+2023-08-25 17:36:13.321301
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 17:40:35.438155
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 17:43:38.690851
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 17:44:07.351133
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 17:44:24.654824
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 17:44:24.819405
+Communication Read
+byref() argument must be a ctypes instance, not 'NoneType'
+2023-08-25 17:47:19.639086
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 17:47:19.640085
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 17:47:25.682827
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 17:47:28.234396
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 22:52:51.772366
+Auto Detect Error
+Î´ÕÒµ½Ö¸¶¨Éè±¸£¬Çë¼ì²éÉè±¸ÊÇ·ñÕý³£Á¬½Ó»òÕýÈ·Ë¢Èë³ÌÐò
+2023-08-25 22:53:11.316782
+Auto Detect Error
+Î´ÕÒµ½Ö¸¶¨Éè±¸£¬Çë¼ì²éÉè±¸ÊÇ·ñÕý³£Á¬½Ó»òÕýÈ·Ë¢Èë³ÌÐò
+2023-08-25 22:53:34.227864
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 22:53:34.393934
+Communication Read
+ReadFile failed (OSError(9, '¾ä±úÎÞÐ§¡£', None, 6))
+2023-08-25 22:59:11.446088
+Connect Error
+could not open port 'COM2': FileNotFoundError(2, 'ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼þ¡£', None, 2)
+2023-08-25 22:59:28.361506
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 22:59:51.993952
+Dashboard Error
+local variable 'ReadList' referenced before assignment
+2023-08-25 23:00:29.716292
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 23:12:05.736449
+Communication Read
+substring not found
+2023-08-25 23:13:06.932742
+Communication Read
+substring not found
+2023-08-25 23:13:11.201345
+Communication Read
+substring not found
+2023-08-25 23:13:13.468103
+Communication Read
+substring not found
+2023-08-25 23:13:20.070079
+Communication Read
+substring not found
+2023-08-25 23:19:17.665700
+Dashboard Error
+'SpeedLeft'
+2023-08-25 23:20:06.294290
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 23:20:47.318841
+Dashboard Error
+'SpeedLeft'
+2023-08-25 23:25:38.501795
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 23:25:47.849643
+Dashboard Error
+'SpeedLeft'
+2023-08-25 23:25:52.155167
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 23:26:27.211462
+Dashboard Error
+'SpeedLeft'
+2023-08-25 23:32:34.744346
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 23:48:01.859500
+Communication Read
+ClearCommError failed (PermissionError(13, 'Éè±¸²»Ê¶±ð´ËÃüÁî¡£', None, 22))
+ogram, you need to press the restart button for 2 times.
+2023-08-25 23:49:35.083880
+Restart Warning
+To Exit the main program, you need to press the Exit button for 2 times.
+2023-08-25 23:54:07.533518
+Dashboard Error
+'SpeedLeft'
+2023-08-25 23:54:13.590299
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 23:54:24.427539
+Dashboard Error
+'SpeedLeft'
+2023-08-25 23:54:26.114890
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 23:54:37.521185
+Dashboard Error
+'SpeedLeft'
+2023-08-25 23:54:44.165500
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 23:54:56.199271
+Dashboard Error
+'SpeedLeft'
+2023-08-25 23:55:02.933296
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 23:57:04.915742
+Communication Read
+substring not found
+2023-08-25 23:57:06.451929
+Communication Read
+substring not found
+2023-08-25 23:57:07.500699
+Communication Read
+substring not found
+2023-08-25 23:57:08.933637
+Communication Read
+substring not found
+2023-08-25 23:57:09.982123
+Communication Read
+substring not found
+2023-08-25 23:57:11.027498
+Communication Read
+substring not found
+2023-08-25 23:57:12.358158
+Communication Read
+substring not found
+2023-08-25 23:57:13.378027
+Communication Read
+substring not found
+2023-08-25 23:57:14.409313
+Communication Read
+substring not found
+2023-08-25 23:57:15.442868
+Communication Read
+substring not found
+2023-08-25 23:57:17.146172
+Communication Read
+substring not found
+2023-08-25 23:57:18.164953
+Communication Read
+substring not found
+2023-08-25 23:57:19.197060
+Communication Read
+substring not found
+2023-08-25 23:57:20.229985
+Communication Read
+substring not found
+2023-08-25 23:57:21.261903
+Communication Read
+substring not found
+2023-08-25 23:57:22.294026
+Communication Read
+substring not found
+2023-08-25 23:57:23.338252
+Communication Read
+substring not found
+2023-08-25 23:57:24.370203
+Communication Read
+substring not found
+2023-08-25 23:57:44.221969
+Communication Read
+substring not found
+2023-08-25 23:57:45.270678
+Communication Read
+substring not found
+2023-08-25 23:57:46.302299
+Communication Read
+substring not found
+2023-08-25 23:57:47.347682
+Communication Read
+substring not found
+2023-08-25 23:57:48.379122
+Communication Read
+substring not found
+2023-08-25 23:57:50.184416
+Restart Warning
+To restart the main program, you need to press the restart button for 2 times.
+2023-08-25 23:58:00.067947
+Communication Read
+substring not found
+2023-08-25 23:58:04.633866
+Communication Read
+substring not found
+2023-08-25 23:58:05.665994
+Communication Read
+substring not found
+2023-08-25 23:58:06.697996
+Communication Read
+substring not found
+2023-08-25 23:58:07.742404
+Communication Read
+substring not found
+2023-08-25 23:58:08.774958
+Communication Read
+substring not found
+2023-08-25 23:58:09.807318
+Communication Read
+substring not found
+2023-08-25 23:58:10.839671
+Communication Read
+substring not found
+2023-08-25 23:58:11.883398
+Communication Read
+substring not found
+2023-08-25 23:58:12.984754
+Communication Read
+substring not found
+2023-08-25 23:58:14.017527
+Communication Read
+substring not found
+2023-08-25 23:58:15.049267
+Communication Read
+substring not found
+2023-08-25 23:58:16.097981
+Communication Read
+substring not found
+2023-08-25 23:58:17.142628
+Communication Read
+substring not found
+2023-08-25 23:58:18.444963
+Communication Read
+substring not found
+2023-08-25 23:58:19.492695
+Communication Read
+substring not found
+2023-08-25 23:58:20.537273
+Communication Read
+substring not found
+2023-08-25 23:58:21.582561
+Communication Read
+substring not found
+2023-08-25 23:58:22.617709
+Communication Read
+substring not found
+2023-08-25 23:58:23.904184
+Communication Read
+substring not found
+2023-08-25 23:58:24.953182
+Communication Read
+substring not found
+2023-08-25 23:58:25.997078
+Communication Read
+substring not found
+2023-08-25 23:58:27.044965
+Communication Read
+substring not found
+2023-08-25 23:58:28.077905
+Communication Read
+substring not found
+2023-08-25 23:58:29.367965
+Communication Read
+substring not found
+2023-08-25 23:58:30.400052
+Communication Read
+substring not found
+2023-08-25 23:58:31.432322
+Communication Read
+substring not found
+2023-08-25 23:58:32.477117
+Communication Read
+substring not found
+2023-08-25 23:58:33.524698
+Communication Read
+substring not found
+2023-08-25 23:58:34.827187
+Communication Read
+substring not found
+2023-08-25 23:58:35.871764
+Communication Read
+substring not found
+2023-08-25 23:58:36.916923
+Communication Read
+substring not found
+2023-08-25 23:58:37.964582
+Communication Read
+substring not found
+2023-08-26 00:05:21.378953
+Communication Read
+substring not found
+2023-08-26 00:05:22.397953
+Communication Read
+substring not found
+2023-08-26 00:05:23.430571
+Communication Read
+substring not found
+2023-08-26 00:05:24.463237
+Communication Read
+substring not found
+2023-08-26 00:05:25.833961
+Communication Read
+substring not found
+2023-08-26 00:05:26.866637
+Communication Read
+substring not found
+2023-08-26 00:05:27.899005
+Communication Read
+substring not found
+2023-08-26 00:05:28.918562
+Communication Read
+substring not found
+2023-08-26 00:05:29.950275
+Communication Read
+substring not found
+2023-08-26 00:05:31.293739
+Communication Read
+substring not found
+2023-08-26 00:05:32.326269
+Communication Read
+substring not found
+2023-08-26 00:05:33.371237
+Communication Read
+substring not found
+2023-08-26 00:05:34.390441
+Communication Read
+substring not found
+2023-08-26 00:05:35.410300
+Communication Read
+substring not found
+2023-08-26 00:05:36.753345
+Communication Read
+substring not found
+2023-08-26 00:05:37.786215
+Communication Read
+substring not found
+2023-08-26 00:05:38.805697
+Communication Read
+substring not found
+2023-08-26 00:05:39.838129
+Communication Read
+substring not found
+2023-08-26 00:05:40.869688
+Communication Read
+substring not found
+2023-08-26 00:05:42.213384
+Communication Read
+substring not found
+2023-08-26 00:05:43.233036
+Communication Read
+substring not found
+2023-08-26 00:05:44.265210
+Communication Read
+substring not found
+2023-08-26 00:05:45.298002
+Communication Read
+substring not found
+2023-08-26 00:05:46.329276
+Communication Read
+substring not found
+2023-08-26 00:05:47.676559
+Communication Read
+substring not found
+2023-08-26 00:05:48.707942
+Communication Read
+substring not found
+2023-08-26 00:05:49.740947
+Communication Read
+substring not found
+2023-08-26 00:05:50.772459
+Communication Read
+substring not found
+2023-08-26 00:05:51.804663
+Communication Read
+substring not found
+2023-08-26 00:05:53.132921
+Communication Read
+substring not found
+2023-08-26 00:05:54.168387
+Communication Read
+substring not found
+2023-08-26 00:05:55.200003
+Communication Read
+substring not found
+2023-08-26 00:05:56.233138
+Communication Read
+substring not found
+2023-08-26 00:05:57.264074
+Communication Read
+substring not found
+2023-08-26 00:05:58.595403
+Communication Read
+substring not found
+2023-08-26 00:05:59.627479
+Communication Read
+substring not found
+2023-08-26 00:06:00.647094
+Communication Read
+substring not found
+2023-08-26 00:06:01.679824
+Communication Read
+substring not found
+2023-08-26 00:06:02.711706
+Communication Read
+substring not found
+2023-08-26 00:06:04.055450
+Communication Read
+substring not found
+2023-08-26 00:06:05.087289
+Communication Read
+substring not found
+2023-08-26 00:06:06.119704
+Communication Read
+substring not found
+2023-08-26 00:06:07.152369
+Communication Read
+substring not found
+2023-08-26 00:06:08.186975
+Communication Read
+substring not found
+2023-08-26 00:06:09.514895
+Communication Read
+substring not found
+2023-08-26 00:06:10.547340
+Communication Read
+substring not found
+2023-08-26 00:06:11.595483
+Communication Read
+substring not found
+2023-08-26 00:06:12.627417
+Communication Read
+substring not found
+2023-08-26 00:06:13.659918
+Communication Read
+substring not found
+2023-08-26 00:06:14.977728
+Communication Read
+substring not found
+2023-08-26 00:06:16.010451
+Communication Read
+substring not found
+2023-08-26 00:06:17.042203
+Communication Read
+substring not found
+2023-08-26 00:06:18.061732
+Communication Read
+substring not found
+2023-08-26 00:06:19.094472
+Communication Read
+substring not found
+2023-08-26 00:06:20.437140
+Communication Read
+substring not found
+2023-08-26 00:06:21.469734
+Communication Read
+substring not found
+2023-08-26 00:06:22.501580
+Communication Read
+substring not found
+2023-08-26 00:06:23.534549
+Communication Read
+substring not found
+2023-08-26 00:06:24.553388
+Communication Read
+substring not found
+2023-08-26 00:06:25.897358
+Communication Read
+substring not found
+2023-08-26 00:06:26.929802
+Communication Read
+substring not found
+2023-08-26 00:06:27.948961
+Communication Read
+substring not found
+2023-08-26 00:06:28.968782
+Communication Read
+substring not found
+2023-08-26 00:06:30.001730
+Communication Read
+substring not found
+2023-08-26 00:06:31.357106
+Communication Read
+substring not found
+2023-08-26 00:06:32.376506
+Communication Read
+substring not found
+2023-08-26 00:06:33.408907
+Communication Read
+substring not found
+2023-08-26 00:06:34.428788
+Communication Read
+substring not found
+2023-08-26 00:06:35.461171
+Communication Read
+substring not found
+2023-08-26 00:06:36.819696
+Communication Read
+substring not found
+2023-08-26 00:06:37.852413
+Communication Read
+substring not found
+2023-08-26 00:06:38.884540
+Communication Read
+substring not found
+2023-08-26 00:06:39.916301
+Communication Read
+substring not found
+2023-08-26 00:06:40.935995
+Communication Read
+substring not found
+2023-08-26 00:06:42.276566
+Communication Read
+substring not found
+2023-08-26 00:06:43.296013
+Communication Read
+substring not found
+2023-08-26 00:06:44.331285
+Communication Read
+substring not found
+2023-08-26 00:06:45.363378
+Communication Read
+substring not found
+2023-08-26 00:06:46.395289
+Communication Read
+substring not found
+2023-08-26 00:06:47.740018
+Communication Read
+substring not found
+2023-08-26 00:06:48.758789
+Communication Read
+substring not found
+2023-08-26 00:06:49.791205
+Communication Read
+substring not found
+2023-08-26 00:06:50.810695
+Communication Read
+substring not found
+2023-08-26 00:06:51.842978
+Communication Read
+substring not found
+2023-08-26 00:06:53.198943
+Communication Read
+substring not found
+2023-08-26 00:06:54.235056
+Communication Read
+substring not found
+2023-08-26 00:06:55.266787
+Communication Read
+substring not found
+2023-08-26 00:06:56.299881
+Communication Read
+substring not found
+2023-08-26 00:06:57.319237
+Communication Read
+substring not found
+2023-08-26 00:06:58.662366
+Communication Read
+substring not found
+2023-08-26 00:06:59.695187
+Communication Read
+substring not found
+2023-08-26 00:07:00.738493
+Communication Read
+substring not found
+2023-08-26 00:07:01.770978
+Communication Read
+substring not found
+2023-08-26 00:07:02.803307
+Communication Read
+substring not found
+2023-08-26 00:07:04.122064
+Communication Read
+substring not found
+2023-08-26 00:07:05.141442
+Communication Read
+substring not found
+2023-08-26 00:07:06.174231
+Communication Read
+substring not found
+2023-08-26 00:07:07.205979
+Communication Read
+substring not found
+2023-08-26 00:07:08.238175
+Communication Read
+substring not found
+2023-08-26 00:07:09.581590
+Communication Read
+substring not found
+2023-08-26 00:07:10.613857
+Communication Read
+substring not found
+2023-08-26 00:07:11.649368
+Communication Read
+substring not found
+2023-08-26 00:07:12.681850
+Communication Read
+substring not found
+2023-08-26 00:07:13.713567
+Communication Read
+substring not found
+2023-08-26 00:07:15.040933
+Communication Read
+substring not found
+2023-08-26 00:07:16.073144
+Communication Read
+substring not found
+2023-08-26 00:07:17.109232
+Communication Read
+substring not found
+2023-08-26 00:07:18.141235
+Communication Read
+substring not found
+2023-08-26 00:07:19.173079
+Communication Read
+substring not found
+2023-08-26 00:07:20.500493
+Communication Read
+substring not found
+2023-08-26 00:07:21.532714
+Communication Read
+substring not found
+2023-08-26 00:07:22.552654
+Communication Read
+substring not found
+2023-08-26 00:07:23.584965
+Communication Read
+substring not found
+2023-08-26 00:07:24.604279
+Communication Read
+substring not found
+2023-08-26 00:07:25.960085
+Communication Read
+substring not found
+2023-08-26 00:07:26.992477
+Communication Read
+substring not found
+2023-08-26 00:07:28.012130
+Communication Read
+substring not found
+2023-08-26 00:07:29.044669
+Communication Read
+substring not found
+2023-08-26 00:07:30.076891
+Communication Read
+substring not found
+2023-08-26 00:07:31.420091
+Communication Read
+substring not found
+2023-08-26 00:07:32.451200
+Communication Read
+substring not found
+2023-08-26 00:07:33.471330
+Communication Read
+substring not found
+2023-08-26 00:07:34.490842
+Communication Read
+substring not found
+2023-08-26 00:07:35.535981
+Communication Read
+substring not found
+2023-08-26 00:07:36.879185
+Communication Read
+substring not found
+2023-08-26 00:07:37.911956
+Communication Read
+substring not found
+2023-08-26 00:07:38.943470
+Communication Read
+substring not found
+2023-08-26 00:07:39.962774
+Communication Read
+substring not found
+2023-08-26 00:07:40.995186
+Communication Read
+substring not found
+2023-08-26 00:07:42.339121
+Communication Read
+substring not found
+2023-08-26 00:07:43.374315
+Communication Read
+substring not found
+2023-08-26 00:07:44.406319
+Communication Read
+substring not found
+2023-08-26 00:07:45.438032
+Communication Read
+substring not found
+2023-08-26 00:07:46.470767
+Communication Read
+substring not found
+2023-08-26 00:07:47.801744
+Communication Read
+substring not found
+2023-08-26 00:07:48.834489
+Communication Read
+substring not found
+2023-08-26 00:07:49.866673
+Communication Read
+substring not found
+2023-08-26 00:07:50.898034
+Communication Read
+substring not found
+2023-08-26 00:07:51.930798
+Communication Read
+substring not found
+2023-08-26 00:07:53.260838
+Communication Read
+substring not found
+2023-08-26 00:07:54.293433
+Communication Read
+substring not found
+2023-08-26 00:07:55.325778
+Communication Read
+substring not found
+2023-08-26 00:07:56.357824
+Communication Read
+substring not found
+2023-08-26 00:07:57.378005
+Communication Read
+substring not found
+2023-08-26 00:07:58.721585
+Communication Read
+substring not found
+2023-08-26 00:07:59.753880
+Communication Read
+substring not found
+2023-08-26 00:08:00.785687
+Communication Read
+substring not found
+2023-08-26 00:08:01.817540
+Communication Read
+substring not found
+2023-08-26 00:08:02.837682
+Communication Read
+substring not found
+2023-08-26 00:08:04.181181
+Communication Read
+substring not found
+2023-08-26 00:08:05.200733
+Communication Read
+substring not found
+2023-08-26 00:08:06.233536
+Communication Read
+substring not found
+2023-08-26 00:08:07.265214
+Communication Read
+substring not found
+2023-08-26 00:08:08.284297
+Communication Read
+substring not found
+2023-08-26 00:08:09.640644
+Communication Read
+substring not found
+2023-08-26 00:08:10.672013
+Communication Read
+substring not found
+2023-08-26 00:08:11.707597
+Communication Read
+substring not found
+2023-08-26 00:08:12.740648
+Communication Read
+substring not found
+2023-08-26 00:08:13.771948
+Communication Read
+substring not found
+2023-08-26 00:08:15.100177
+Communication Read
+substring not found
+2023-08-26 00:08:16.132475
+Communication Read
+substring not found
+2023-08-26 00:08:17.151738
+Communication Read
+substring not found
+2023-08-26 00:08:18.183338
+Communication Read
+substring not found
+2023-08-26 00:08:19.215307
+Communication Read
+substring not found
+2023-08-26 00:08:20.559302
+Communication Read
+substring not found
+2023-08-26 00:08:21.591829
+Communication Read
+substring not found
+2023-08-26 00:08:22.623566
+Communication Read
+substring not found
+2023-08-26 00:08:23.643318
+Communication Read
+substring not found
+2023-08-26 00:08:24.675560
+Communication Read
+substring not found
+2023-08-26 00:08:26.018489
+Communication Read
+substring not found
+2023-08-26 00:08:27.050969
+Communication Read
+substring not found
+2023-08-26 00:08:28.082773
+Communication Read
+substring not found
+2023-08-26 00:08:29.102693
+Communication Read
+substring not found
+2023-08-26 00:08:30.122383
+Communication Read
+substring not found
+2023-08-26 00:08:31.481666
+Communication Read
+substring not found
+2023-08-26 00:08:32.513898
+Communication Read
+substring not found
+2023-08-26 00:08:33.546374
+Communication Read
+substring not found
+2023-08-26 00:08:34.578428
+Communication Read
+substring not found
+2023-08-26 00:08:35.597788
+Communication Read
+substring not found
+2023-08-26 00:08:36.941610
+Communication Read
+substring not found
+2023-08-26 00:08:37.973299
+Communication Read
+substring not found
+2023-08-26 00:08:39.005592
+Communication Read
+substring not found
+2023-08-26 00:08:40.037681
+Communication Read
+substring not found
+2023-08-26 00:08:41.070349
+Communication Read
+substring not found
+2023-08-26 00:08:42.400531
+Communication Read
+substring not found
+2023-08-26 00:08:43.433446
+Communication Read
+substring not found
+2023-08-26 00:08:44.464990
+Communication Read
+substring not found
+2023-08-26 00:08:45.497521
+Communication Read
+substring not found
+2023-08-26 00:08:46.529181
+Communication Read
+substring not found
+2023-08-26 00:08:47.860864
+Communication Read
+substring not found
+2023-08-26 00:08:48.892782
+Communication Read
+substring not found
+2023-08-26 00:08:49.925012
+Communication Read
+substring not found
+2023-08-26 00:08:50.957213
+Communication Read
+substring not found
+2023-08-26 00:08:51.988822
+Communication Read
+substring not found
+2023-08-26 00:08:53.319966
+Communication Read
+substring not found
+2023-08-26 00:08:54.352317
+Communication Read
+substring not found
+2023-08-26 00:08:55.384169
+Communication Read
+substring not found
+2023-08-26 00:08:56.417016
+Communication Read
+substring not found
+2023-08-26 00:08:57.436455
+Communication Read
+substring not found
+2023-08-26 00:08:58.779718
+Communication Read
+substring not found
+2023-08-26 00:08:59.799493
+Communication Read
+substring not found
+2023-08-26 00:09:00.831802
+Communication Read
+substring not found
+2023-08-26 00:09:01.863571
+Communication Read
+substring not found
+2023-08-26 00:09:02.895311
+Communication Read
+substring not found
+2023-08-26 00:09:04.239019
+Communication Read
+substring not found
+2023-08-26 00:09:05.271463
+Communication Read
+substring not found
+2023-08-26 00:09:06.303784
+Communication Read
+substring not found
+2023-08-26 00:09:07.339366
+Communication Read
+substring not found
+2023-08-26 00:09:08.371034
+Communication Read
+substring not found
+2023-08-26 00:09:09.698682
+Communication Read
+substring not found
+2023-08-26 00:09:10.731611
+Communication Read
+substring not found
+2023-08-26 00:09:11.766173
+Communication Read
+substring not found
+2023-08-26 00:09:12.783611
+Communication Read
+substring not found
+2023-08-26 00:09:13.814906
+Communication Read
+substring not found
+2023-08-26 00:09:15.161888
+Communication Read
+substring not found
+2023-08-26 00:09:16.193605
+Communication Read
+substring not found
+2023-08-26 00:09:17.226559
+Communication Read
+substring not found
+2023-08-26 00:09:18.270913
+Communication Read
+substring not found
+2023-08-26 00:09:19.303222
+Communication Read
+substring not found
+2023-08-26 00:09:20.618358
+Communication Read
+substring not found
+2023-08-26 00:09:21.653319
+Communication Read
+substring not found
+2023-08-26 00:09:22.686051
+Communication Read
+substring not found
+2023-08-26 00:09:23.718039
+Communication Read
+substring not found
+2023-08-26 00:09:24.762926
+Communication Read
+substring not found
+2023-08-26 00:09:26.081122
+Communication Read
+substring not found
+2023-08-26 00:09:27.126308
+Communication Read
+substring not found
+2023-08-26 00:09:28.158427
+Communication Read
+substring not found
+2023-08-26 00:09:29.191054
+Communication Read
+substring not found
+2023-08-26 00:09:30.222460
+Communication Read
+substring not found
+2023-08-26 00:09:31.540982
+Communication Read
+substring not found
+2023-08-26 00:09:32.573472
+Communication Read
+substring not found
+2023-08-26 00:09:33.592939
+Communication Read
+substring not found
+2023-08-26 00:09:34.624729
+Communication Read
+substring not found
+2023-08-26 00:09:35.657122
+Communication Read
+substring not found
+2023-08-26 00:09:37.000216
+Communication Read
+substring not found
+2023-08-26 00:09:38.020079
+Communication Read
+substring not found
+2023-08-26 00:09:39.051889
+Communication Read
+substring not found
+2023-08-26 00:09:40.072018
+Communication Read
+substring not found
+2023-08-26 00:09:41.104047
+Communication Read
+substring not found
+2023-08-26 00:09:42.459964
+Communication Read
+substring not found
+2023-08-26 00:09:43.492281
+Communication Read
+substring not found
+2023-08-26 00:09:44.512768
+Communication Read
+substring not found
+2023-08-26 00:09:45.544183
+Communication Read
+substring not found
+2023-08-26 00:09:46.576281
+Communication Read
+substring not found
+2023-08-26 00:09:47.919730
+Communication Read
+substring not found
+2023-08-26 00:09:48.939427
+Communication Read
+substring not found
+2023-08-26 00:09:49.972085
+Communication Read
+substring not found
+2023-08-26 00:09:51.003552
+Communication Read
+substring not found
+2023-08-26 00:09:52.039406
+Communication Read
+substring not found
+2023-08-26 00:09:53.383004
+Communication Read
+substring not found
+2023-08-26 00:09:54.415361
+Communication Read
+substring not found
+2023-08-26 00:09:55.446777
+Communication Read
+substring not found
+2023-08-26 00:09:56.507534
+Communication Read
+substring not found
+2023-08-26 00:09:57.539377
+Communication Read
+substring not found
+2023-08-26 00:09:58.841973
+Communication Read
+substring not found
+2023-08-26 00:09:59.874655
+Communication Read
+substring not found
+2023-08-26 00:10:00.906569
+Communication Read
+substring not found
+2023-08-26 00:10:01.926650
+Communication Read
+substring not found
+2023-08-26 00:10:02.958219
+Communication Read
+substring not found
+2023-08-26 00:10:04.302767
+Communication Read
+substring not found
+2023-08-26 00:10:05.334207
+Communication Read
+substring not found
+2023-08-26 00:10:06.366493
+Communication Read
+substring not found
+2023-08-26 00:10:07.398669
+Communication Read
+substring not found
+2023-08-26 00:10:08.430431
+Communication Read
+substring not found
+2023-08-26 00:10:09.761214
+Communication Read
+substring not found
+2023-08-26 00:10:10.782011
+Communication Read
+substring not found
+2023-08-26 00:10:11.814000
+Communication Read
+substring not found
+2023-08-26 00:10:12.846099
+Communication Read
+substring not found
+2023-08-26 00:10:13.877430
+Communication Read
+substring not found
+2023-08-26 00:10:15.221583
+Communication Read
+substring not found
+2023-08-26 00:10:16.240695
+Communication Read
+substring not found
+2023-08-26 00:10:17.272979
+Communication Read
+substring not found
+2023-08-26 00:10:18.305053
+Communication Read
+substring not found
+2023-08-26 00:10:19.324979
+Communication Read
+substring not found
+2023-08-26 00:10:20.680601
+Communication Read
+substring not found
+2023-08-26 00:10:21.716625
+Communication Read
+substring not found
+2023-08-26 00:10:22.749010
+Communication Read
+substring not found
+2023-08-26 00:10:23.792841
+Communication Read
+substring not found
+2023-08-26 00:10:24.825627
+Communication Read
+substring not found
+2023-08-26 00:10:26.144162
+Communication Read
+substring not found
+2023-08-26 00:10:27.176554
+Communication Read
+substring not found
+2023-08-26 00:10:28.208100
+Communication Read
+substring not found
+2023-08-26 00:10:29.240753
+Communication Read
+substring not found
+2023-08-26 00:10:30.272932
+Communication Read
+substring not found
+2023-08-26 00:10:31.603121
+Communication Read
+substring not found
+2023-08-26 00:10:32.635308
+Communication Read
+substring not found
+2023-08-26 00:10:33.667868
+Communication Read
+substring not found
+2023-08-26 00:10:34.699571
+Communication Read
+substring not found
+2023-08-26 00:10:35.732416
+Communication Read
+substring not found
+2023-08-26 00:10:37.062655
+Communication Read
+substring not found
+2023-08-26 00:10:38.095616
+Communication Read
+substring not found
+2023-08-26 00:10:39.114956
+Communication Read
+substring not found
+2023-08-26 00:10:40.134421
+Communication Read
+substring not found
+2023-08-26 00:10:41.166554
+Communication Read
+substring not found
+2023-08-26 00:10:42.522918
+Communication Read
+substring not found
+2023-08-26 00:10:43.558644
+Communication Read
+substring not found
+2023-08-26 00:10:44.590287
+Communication Read
+substring not found
+2023-08-26 00:10:45.622517
+Communication Read
+substring not found
+2023-08-26 00:10:46.655231
+Communication Read
+substring not found
+2023-08-26 00:10:47.985848
+Communication Read
+substring not found
+2023-08-26 00:10:49.002001
+Communication Read
+substring not found
+2023-08-26 00:10:50.037896
+Communication Read
+substring not found
+2023-08-26 00:10:51.082097
+Communication Read
+substring not found
+2023-08-26 00:10:52.114563
+Communication Read
+substring not found
+2023-08-26 00:10:53.445170
+Communication Read
+substring not found
+2023-08-26 00:10:54.478300
+Communication Read
+substring not found
+2023-08-26 00:10:55.522542
+Communication Read
+substring not found
+2023-08-26 00:10:56.554747
+Communication Read
+substring not found
+2023-08-26 00:10:57.586562
+Communication Read
+substring not found
+2023-08-26 00:10:58.905296
+Communication Read
+substring not found
+2023-08-26 00:10:59.949107
+Communication Read
+substring not found
+2023-08-26 00:11:00.994752
+Communication Read
+substring not found
+2023-08-26 00:11:02.030034
+Communication Read
+substring not found
+2023-08-26 00:11:03.062065
+Communication Read
+substring not found
+2023-08-26 00:11:04.364812
+Communication Read
+substring not found
+2023-08-26 00:11:05.396660
+Communication Read
+substring not found
+2023-08-26 00:11:06.416614
+Communication Read
+substring not found
+2023-08-26 00:11:07.461046
+Communication Read
+substring not found
+2023-08-26 00:11:08.493274
+Communication Read
+substring not found
+2023-08-26 00:11:09.823883
+Communication Read
+substring not found
+2023-08-26 00:11:10.856039
+Communication Read
+substring not found
+2023-08-26 00:11:11.888561
+Communication Read
+substring not found
+2023-08-26 00:11:12.920890
+Communication Read
+substring not found
+2023-08-26 00:11:13.953426
+Communication Read
+substring not found
+2023-08-26 00:11:15.284298
+Communication Read
+substring not found
+2023-08-26 00:11:16.303547
+Communication Read
+substring not found
+2023-08-26 00:11:17.335322
+Communication Read
+substring not found
+2023-08-26 00:11:18.367948
+Communication Read
+substring not found
+2023-08-26 00:11:19.399592
+Communication Read
+substring not found
+2023-08-26 00:11:20.743822
+Communication Read
+substring not found
+2023-08-26 00:11:21.778606
+Communication Read
+substring not found
+2023-08-26 00:11:22.811007
+Communication Read
+substring not found
+2023-08-26 00:11:23.830979
+Communication Read
+substring not found
+2023-08-26 00:11:24.863748
+Communication Read
+substring not found
+2023-08-26 00:11:26.206140
+Communication Read
+substring not found
+2023-08-26 00:11:27.238441
+Communication Read
+substring not found
+2023-08-26 00:11:28.271035
+Communication Read
+substring not found
+2023-08-26 00:11:29.290623
+Communication Read
+substring not found
+2023-08-26 00:11:30.323329
+Communication Read
+substring not found
+2023-08-26 00:11:31.666577
+Communication Read
+substring not found
+2023-08-26 00:11:32.726697
+Communication Read
+substring not found
+2023-08-26 00:11:33.784584
+Communication Read
+substring not found
+2023-08-26 00:11:34.832166
+Communication Read
+substring not found
+2023-08-26 00:11:35.864364
+Communication Read
+substring not found
+2023-08-26 00:11:37.125861
+Communication Read
+substring not found
+2023-08-26 00:11:38.157562
+Communication Read
+substring not found
+2023-08-26 00:11:39.177794
+Communication Read
+substring not found
+2023-08-26 00:11:40.209904
+Communication Read
+substring not found
+2023-08-26 00:11:41.242105
+Communication Read
+substring not found
+2023-08-26 00:11:42.585682
+Communication Read
+substring not found
+2023-08-26 00:11:43.605010
+Communication Read
+substring not found
+2023-08-26 00:11:44.637004
+Communication Read
+substring not found
+2023-08-26 00:11:45.669933
+Communication Read
+substring not found
+2023-08-26 00:11:46.702282
+Communication Read
+substring not found
+2023-08-26 00:11:48.045230
+Communication Read
+substring not found
+2023-08-26 00:11:49.080455
+Communication Read
+substring not found
+2023-08-26 00:11:50.112773
+Communication Read
+substring not found
+2023-08-26 00:11:51.157445
+Communication Read
+substring not found
+2023-08-26 00:11:52.202670
+Communication Read
+substring not found
+2023-08-26 00:11:53.508325
+Communication Read
+substring not found
+2023-08-26 00:11:54.539889
+Communication Read
+substring not found
+2023-08-26 00:11:55.597770
+Communication Read
+substring not found
+2023-08-26 00:11:56.629645
+Communication Read
+substring not found
+2023-08-26 00:11:57.664901
+Communication Read
+substring not found
+2023-08-26 00:11:58.968125
+Communication Read
+substring not found
+2023-08-26 00:11:59.999726
+Communication Read
+substring not found
+2023-08-26 00:12:01.032060
+Communication Read
+substring not found
+2023-08-26 00:12:02.064455
+Communication Read
+substring not found
+2023-08-26 00:12:03.096173
+Communication Read
+substring not found
+2023-08-26 00:12:04.427354
+Communication Read
+substring not found
+2023-08-26 00:12:05.462789
+Communication Read
+substring not found
+2023-08-26 00:12:06.495451
+Communication Read
+substring not found
+2023-08-26 00:12:07.527290
+Communication Read
+substring not found
+2023-08-26 00:12:08.559453
+Communication Read
+substring not found
+2023-08-26 00:12:09.890753
+Communication Read
+substring not found
+2023-08-26 00:12:10.923039
+Communication Read
+substring not found
+2023-08-26 00:12:11.955722
+Communication Read
+substring not found
+2023-08-26 00:12:12.974646
+Communication Read
+substring not found
+2023-08-26 00:12:14.007503
+Communication Read
+substring not found
+2023-08-26 00:12:15.350801
+Communication Read
+substring not found
+2023-08-26 00:12:16.383021
+Communication Read
+substring not found
+2023-08-26 00:12:17.414744
+Communication Read
+substring not found
+2023-08-26 00:12:18.434766
+Communication Read
+substring not found
+2023-08-26 00:12:19.467226
+Communication Read
+substring not found
+2023-08-26 00:12:20.810531
+Communication Read
+substring not found
+2023-08-26 00:12:21.842791
+Communication Read
+substring not found
+2023-08-26 00:12:22.862579
+Communication Read
+substring not found
+2023-08-26 00:12:23.882269
+Communication Read
+substring not found
+2023-08-26 00:12:24.913603
+Communication Read
+substring not found
+2023-08-26 00:12:26.269519
+Communication Read
+substring not found
+2023-08-26 00:12:27.301605
+Communication Read
+substring not found
+2023-08-26 00:12:28.350653
+Communication Read
+substring not found
+2023-08-26 00:12:29.381955
+Communication Read
+substring not found
+2023-08-26 00:12:30.414505
+Communication Read
+substring not found
+2023-08-26 00:12:31.729200
+Communication Read
+substring not found
+2023-08-26 00:12:32.761894
+Communication Read
+substring not found
+2023-08-26 00:12:33.796977
+Communication Read
+substring not found
+2023-08-26 00:12:34.828948
+Communication Read
+substring not found
+2023-08-26 00:12:35.862180
+Communication Read
+substring not found
+2023-08-26 00:12:37.191935
+Communication Read
+substring not found
+2023-08-26 00:12:38.224174
+Communication Read
+substring not found
+2023-08-26 00:12:39.256638
+Communication Read
+substring not found
+2023-08-26 00:12:40.288381
+Communication Read
+substring not found
+2023-08-26 00:12:41.321392
+Communication Read
+substring not found
+2023-08-26 00:12:42.651357
+Communication Read
+substring not found
+2023-08-26 00:12:43.683712
+Communication Read
+substring not found
+2023-08-26 00:12:44.716055
+Communication Read
+substring not found
+2023-08-26 00:12:45.748289
+Communication Read
+substring not found
+2023-08-26 00:12:46.780791
+Communication Read
+substring not found
+2023-08-26 00:12:48.112052
+Communication Read
+substring not found
+2023-08-26 00:12:49.143900
+Communication Read
+substring not found
+2023-08-26 00:12:50.188092
+Communication Read
+substring not found
+2023-08-26 00:12:51.236039
+Communication Read
+substring not found
+2023-08-26 00:12:52.268415
+Communication Read
+substring not found
+2023-08-26 00:12:53.570682
+Communication Read
+substring not found
+2023-08-26 00:12:54.603463
+Communication Read
+substring not found
+2023-08-26 00:12:55.623140
+Communication Read
+substring not found
+2023-08-26 00:12:56.655165
+Communication Read
+substring not found
+2023-08-26 00:12:57.675504
+Communication Read
+substring not found
+2023-08-26 00:12:59.031508
+Communication Read
+substring not found
+2023-08-26 00:13:00.063184
+Communication Read
+substring not found
+2023-08-26 00:13:01.094862
+Communication Read
+substring not found
+2023-08-26 00:13:02.114995
+Communication Read
+substring not found
+2023-08-26 00:13:03.146596
+Communication Read
+substring not found
+2023-08-26 00:13:04.490232
+Communication Read
+substring not found
+2023-08-26 00:13:05.523189
+Communication Read
+substring not found
+2023-08-26 00:13:06.555198
+Communication Read
+substring not found
+2023-08-26 00:13:07.574450
+Communication Read
+substring not found
+2023-08-26 00:13:08.593611
+Communication Read
+substring not found
+2023-08-26 00:13:09.953500
+Communication Read
+substring not found
+2023-08-26 00:13:10.985541
+Communication Read
+substring not found
+2023-08-26 00:13:12.017632
+Communication Read
+substring not found
+2023-08-26 00:13:13.037799
+Communication Read
+substring not found
+2023-08-26 00:13:14.070118
+Communication Read
+substring not found
+2023-08-26 00:13:15.413525
+Communication Read
+substring not found
+2023-08-26 00:13:16.432995
+Communication Read
+substring not found
+2023-08-26 00:13:17.465319
+Communication Read
+substring not found
+2023-08-26 00:13:18.484713
+Communication Read
+substring not found
+2023-08-26 00:13:19.516606
+Communication Read
+substring not found
+2023-08-26 00:13:20.872671
+Communication Read
+substring not found
+2023-08-26 00:13:21.892744
+Communication Read
+substring not found
+2023-08-26 00:13:22.924736
+Communication Read
+substring not found
+2023-08-26 00:13:23.957206
+Communication Read
+substring not found
+2023-08-26 00:13:24.988716
+Communication Read
+substring not found
+2023-08-26 00:13:26.332327
+Communication Read
+substring not found
+2023-08-26 00:13:27.364664
+Communication Read
+substring not found
+2023-08-26 00:13:28.400012
+Communication Read
+substring not found
+2023-08-26 00:13:29.445357
+Communication Read
+substring not found
+2023-08-26 00:13:30.464176
+Communication Read
+substring not found
+2023-08-26 00:13:31.796197
+Communication Read
+substring not found
+2023-08-26 00:13:32.827735
+Communication Read
+substring not found
+2023-08-26 00:13:33.848057
+Communication Read
+substring not found
+2023-08-26 00:13:34.880235
+Communication Read
+substring not found
+2023-08-26 00:13:35.924892
+Communication Read
+substring not found
+2023-08-26 00:13:37.255331
+Communication Read
+substring not found
+2023-08-26 00:13:38.300510
+Communication Read
+substring not found
+2023-08-26 00:13:39.319810
+Communication Read
+substring not found
+2023-08-26 00:13:40.352069
+Communication Read
+substring not found
+2023-08-26 00:13:41.384441
+Communication Read
+substring not found
+2023-08-26 00:13:42.714647
+Communication Read
+substring not found
+2023-08-26 00:13:43.734846
+Communication Read
+substring not found
+2023-08-26 00:13:44.767870
+Communication Read
+substring not found
+2023-08-26 00:13:45.786618
+Communication Read
+substring not found
+2023-08-26 00:13:46.818144
+Communication Read
+substring not found
+2023-08-26 00:13:48.174682
+Communication Read
+substring not found
+2023-08-26 00:13:49.206896
+Communication Read
+substring not found
+2023-08-26 00:13:50.242100
+Communication Read
+substring not found
+2023-08-26 00:13:51.274477
+Communication Read
+substring not found
+2023-08-26 00:13:52.306573
+Communication Read
+substring not found
+2023-08-26 00:13:53.634597
+Communication Read
+substring not found
+2023-08-26 00:13:54.666448
+Communication Read
+substring not found
+2023-08-26 00:13:55.686453
+Communication Read
+substring not found
+2023-08-26 00:13:56.705932
+Communication Read
+substring not found
+2023-08-26 00:13:57.737652
+Communication Read
+substring not found
+2023-08-26 00:13:59.094594
+Communication Read
+substring not found
+2023-08-26 00:14:00.113428
+Communication Read
+substring not found
+2023-08-26 00:14:01.144993
+Communication Read
+substring not found
+2023-08-26 00:14:02.177932
+Communication Read
+substring not found
+2023-08-26 00:14:03.198020
+Communication Read
+substring not found
+2023-08-26 00:14:04.556240
+Communication Read
+substring not found
+2023-08-26 00:14:05.589301
+Communication Read
+substring not found
+2023-08-26 00:14:06.621352
+Communication Read
+substring not found
+2023-08-26 00:14:07.653575
+Communication Read
+substring not found
+2023-08-26 00:14:08.673177
+Communication Read
+substring not found
+2023-08-26 00:14:10.016674
+Communication Read
+substring not found
+2023-08-26 00:14:11.048508
+Communication Read
+substring not found
+2023-08-26 00:14:12.068462
+Communication Read
+substring not found
+2023-08-26 00:14:13.100901
+Communication Read
+substring not found
+2023-08-26 00:14:14.120357
+Communication Read
+substring not found
+2023-08-26 00:14:15.476290
+Communication Read
+substring not found
+2023-08-26 00:14:16.520756
+Communication Read
+substring not found
+2023-08-26 00:14:17.540227
+Communication Read
+substring not found
+2023-08-26 00:14:18.561092
+Communication Read
+substring not found
+2023-08-26 00:14:19.580131
+Communication Read
+substring not found
+2023-08-26 00:14:20.935802
+Communication Read
+substring not found
+2023-08-26 00:14:21.967631
+Communication Read
+substring not found
+2023-08-26 00:14:23.000337
+Communication Read
+substring not found
+2023-08-26 00:14:24.020585
+Communication Read
+substring not found
+2023-08-26 00:14:25.039000
+Communication Read
+substring not found
+2023-08-26 00:14:26.395278
+Communication Read
+substring not found
+2023-08-26 00:14:27.430759
+Communication Read
+substring not found
+2023-08-26 00:14:28.463330
+Communication Read
+substring not found
+2023-08-26 00:14:29.495087
+Communication Read
+substring not found
+2023-08-26 00:14:30.539876
+Communication Read
+substring not found
+2023-08-26 00:14:31.858594
+Communication Read
+substring not found
+2023-08-26 00:14:32.890131
+Communication Read
+substring not found
+2023-08-26 00:14:33.922562
+Communication Read
+substring not found
+2023-08-26 00:14:34.955369
+Communication Read
+substring not found
+2023-08-26 00:14:35.986932
+Communication Read
+substring not found
+2023-08-26 00:14:37.318488
+Communication Read
+substring not found
+2023-08-26 00:14:38.350644
+Communication Read
+substring not found
+2023-08-26 00:14:39.382604
+Communication Read
+substring not found
+2023-08-26 00:14:40.414366
+Communication Read
+substring not found
+2023-08-26 00:14:41.434507
+Communication Read
+substring not found
+2023-08-26 00:14:42.777555
+Communication Read
+substring not found
+2023-08-26 00:14:43.798133
+Communication Read
+substring not found
+2023-08-26 00:14:44.830389
+Communication Read
+substring not found
+2023-08-26 00:14:45.890334
+Communication Read
+substring not found
+2023-08-26 00:14:46.922661
+Communication Read
+substring not found
+2023-08-26 00:14:48.241404
+Communication Read
+substring not found
+2023-08-26 00:14:49.285530
+Communication Read
+substring not found
+2023-08-26 00:14:50.306028
+Communication Read
+substring not found
+2023-08-26 00:14:51.325326
+Communication Read
+substring not found
+2023-08-26 00:14:52.344864
+Communication Read
+substring not found
+2023-08-26 00:14:53.701483
+Communication Read
+substring not found
+2023-08-26 00:14:54.734007
+Communication Read
+substring not found
+2023-08-26 00:14:55.752542
+Communication Read
+substring not found
+2023-08-26 00:14:56.772183
+Communication Read
+substring not found
+2023-08-26 00:14:57.804441
+Communication Read
+substring not found
+2023-08-26 00:14:59.159969
+Communication Read
+substring not found
+2023-08-26 00:15:00.208828
+Communication Read
+substring not found
+2023-08-26 00:15:01.240492
+Communication Read
+substring not found
+2023-08-26 00:15:02.272683
+Communication Read
+substring not found
+2023-08-26 00:15:03.304796
+Communication Read
+substring not found
+2023-08-26 00:15:04.623358
+Communication Read
+substring not found
+2023-08-26 00:15:05.668505
+Communication Read
+substring not found
+2023-08-26 00:15:06.700795
+Communication Read
+substring not found
+2023-08-26 00:15:07.748760
+Communication Read
+substring not found
+2023-08-26 00:15:08.781248
+Communication Read
+substring not found
+2023-08-26 00:15:10.083582
+Communication Read
+substring not found
+2023-08-26 00:15:11.115244
+Communication Read
+substring not found
+2023-08-26 00:15:12.148579
+Communication Read
+substring not found
+2023-08-26 00:15:13.167241
+Communication Read
+substring not found
+2023-08-26 00:15:14.199597
+Communication Read
+substring not found
+2023-08-26 00:15:15.543262
+Communication Read
+substring not found
+2023-08-26 00:15:16.562948
+Communication Read
+substring not found
+2023-08-26 00:15:17.595878
+Communication Read
+substring not found
+2023-08-26 00:15:18.626771
+Communication Read
+substring not found
+2023-08-26 00:15:19.662449
+Communication Read
+substring not found
+2023-08-26 00:15:21.006077
+Communication Read
+substring not found
+2023-08-26 00:15:22.051505
+Communication Read
+substring not found
+2023-08-26 00:15:23.083202
+Communication Read
+substring not found
+2023-08-26 00:15:24.102350
+Communication Read
+substring not found
+2023-08-26 00:15:25.122334
+Communication Read
+substring not found
+2023-08-26 00:15:26.466021
+Communication Read
+substring not found
+2023-08-26 00:15:27.498345
+Communication Read
+substring not found
+2023-08-26 00:15:28.530136
+Communication Read
+substring not found
+2023-08-26 00:15:29.561710
+Communication Read
+substring not found
+2023-08-26 00:15:30.581348
+Communication Read
+substring not found
+2023-08-26 00:15:31.925479
+Communication Read
+substring not found
+2023-08-26 00:15:32.957210
+Communication Read
+substring not found
+2023-08-26 00:15:33.990368
+Communication Read
+substring not found
+2023-08-26 00:15:35.009115
+Communication Read
+substring not found
+2023-08-26 00:15:36.041865
+Communication Read
+substring not found
+2023-08-26 00:15:37.385103
+Communication Read
+substring not found
+2023-08-26 00:15:38.404845
+Communication Read
+substring not found
+2023-08-26 00:15:39.424432
+Communication Read
+substring not found
+2023-08-26 00:15:40.456121
+Communication Read
+substring not found
+2023-08-26 00:15:41.489420
+Communication Read
+substring not found
+2023-08-26 00:15:42.844904
+Communication Read
+substring not found
+2023-08-26 00:15:43.877578
+Communication Read
+substring not found
+2023-08-26 00:15:44.909276
+Communication Read
+substring not found
+2023-08-26 00:15:45.941160
+Communication Read
+substring not found
+2023-08-26 00:15:46.976853
+Communication Read
+substring not found
+2023-08-26 00:15:48.304711
+Communication Read
+substring not found
+2023-08-26 00:15:49.340110
+Communication Read
+substring not found
+2023-08-26 00:15:50.371724
+Communication Read
+substring not found
+2023-08-26 00:15:51.403919
+Communication Read
+substring not found
+2023-08-26 00:15:52.436222
+Communication Read
+substring not found
+2023-08-26 00:15:53.767580
+Communication Read
+substring not found
+2023-08-26 00:15:54.799903
+Communication Read
+substring not found
+2023-08-26 00:15:55.831383
+Communication Read
+substring not found
+2023-08-26 00:15:56.863828
+Communication Read
+substring not found
+2023-08-26 00:15:57.883277
+Communication Read
+substring not found
+2023-08-26 00:15:59.226487
+Communication Read
+substring not found
+2023-08-26 00:16:00.258608
+Communication Read
+substring not found
+2023-08-26 00:16:01.291481
+Communication Read
+substring not found
+2023-08-26 00:16:02.335702
+Communication Read
+substring not found
+2023-08-26 00:16:03.371962
+Communication Read
+substring not found
+2023-08-26 00:16:04.686438
+Communication Read
+substring not found
+2023-08-26 00:16:05.719535
+Communication Read
+substring not found
+2023-08-26 00:16:06.754949
+Communication Read
+substring not found
+2023-08-26 00:16:07.786973
+Communication Read
+substring not found
+2023-08-26 00:16:08.819226
+Communication Read
+substring not found
+2023-08-26 00:16:10.133841
+Communication Read
+substring not found
+2023-08-26 00:16:11.166263
+Communication Read
+substring not found
+2023-08-26 00:16:12.214289
+Communication Read
+substring not found
+2023-08-26 00:16:13.246793
+Communication Read
+substring not found
+2023-08-26 00:16:14.278742
+Communication Read
+substring not found
+2023-08-26 00:16:15.596685
+Communication Read
+substring not found
+2023-08-26 00:16:16.629044
+Communication Read
+substring not found
+2023-08-26 00:16:17.661643
+Communication Read
+substring not found
+2023-08-26 00:16:18.693629
+Communication Read
+substring not found
+2023-08-26 00:16:19.726560
+Communication Read
+substring not found
+2023-08-26 00:16:21.057086
+Communication Read
+substring not found
+2023-08-26 00:16:22.088629
+Communication Read
+substring not found
+2023-08-26 00:16:23.121516
+Communication Read
+substring not found
+2023-08-26 00:16:24.141058
+Communication Read
+substring not found
+2023-08-26 00:16:25.160661
+Communication Read
+substring not found
+2023-08-26 00:16:26.516327
+Communication Read
+substring not found
+2023-08-26 00:16:27.549056
+Communication Read
+substring not found
+2023-08-26 00:16:28.569305
+Communication Read
+substring not found
+2023-08-26 00:16:29.600817
+Communication Read
+substring not found
+2023-08-26 00:16:30.634297
+Communication Read
+substring not found
+2023-08-26 00:16:31.979434
+Communication Read
+substring not found
+2023-08-26 00:16:33.012243
+Communication Read
+substring not found
+2023-08-26 00:16:34.044973
+Communication Read
+substring not found
+2023-08-26 00:16:35.076582
+Communication Read
+substring not found
+2023-08-26 00:16:36.095797
+Communication Read
+substring not found
+2023-08-26 00:16:37.439587
+Communication Read
+substring not found
+2023-08-26 00:16:38.459498
+Communication Read
+substring not found
+2023-08-26 00:16:39.491160
+Communication Read
+substring not found
+2023-08-26 00:16:40.523539
+Communication Read
+substring not found
+2023-08-26 00:16:41.555855
+Communication Read
+substring not found
+2023-08-26 00:17:59.261129
 Restart Warning
 To Exit the main program, you need to press the Exit button for 2 times.
