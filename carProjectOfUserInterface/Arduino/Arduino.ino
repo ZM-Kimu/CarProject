@@ -9,6 +9,7 @@
 #define RightPIN 12         // 右LED数据接口
 
 #define NUM_LEDS 62 // LED数量
+#define bandRate 115200 // Arduino通信带宽
 
 int OperationTick = 0;
 int isLeftLight = 0;
@@ -79,7 +80,7 @@ void TurningLight()
     CommandCode = -1;
   }
 }
-
+//将灯带改为应急灯状态
 void EmergencyLight()
 {
   if (EmergencyOn && CommandCode == "01")
@@ -140,14 +141,14 @@ void GetInfoFromComputer()
       DeserializationError error = deserializeJson(jsonDocument, message);
       if (!error)
       {
-        // int Variable = jsonDocument["Key"];
+        // Usage: int Variable = jsonDocument["Key"];
         int StatusInfo = jsonDocument["Status"];
-        if (StatusInfo == 2)
+        switch (StatusInfo)
         {
-        }
-        else if (StatusInfo == 0)
-        {
-          // Code
+        case 2:
+          break;
+        case 0:
+        break;
         }
         String OperationInfo = jsonDocument["Turnning"].as<String>();
         if (OperationInfo == "Left" && OperationTick < 2)
@@ -230,7 +231,7 @@ void Timeout()
 
 void setup()
 {
-  Serial.begin(115200);
+  Serial.begin(bandRate);
   FastLED.addLeds<NEOPIXEL, LeftPIN>(LeftLED, NUM_LEDS);
   FastLED.addLeds<NEOPIXEL, RightPIN>(RightLED, NUM_LEDS);
   int a, b;

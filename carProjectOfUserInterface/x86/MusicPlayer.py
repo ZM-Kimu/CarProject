@@ -2,19 +2,18 @@ import os
 from pygame import mixer
 
 
-
 class Music:
 
     def __init__(self):
         self.MusicNow = 0
         self.Total = 0
-        self.MusicLastPosistion=0
+        self.MusicLastPosistion = 0
         self.FolderPath = ""
         self.MusicList = []
         mixer.init()
 
     def GetFiles(self, FolderPath):
-        self.MusicList=[]
+        self.MusicList = []
         self.FolderPath = FolderPath
         for _, _, Files in os.walk(FolderPath):
             for File in Files:
@@ -26,7 +25,7 @@ class Music:
         try:
             if IsRestart:
                 self.MusicNow = MusicNow
-                self.MusicLastPosistion=Time
+                self.MusicLastPosistion = Time
                 self.GetFiles(Folder)
             mixer.music.load(self.FolderPath+"/"+self.MusicList[self.MusicNow])
             mixer.music.play(start=Time)
@@ -45,7 +44,7 @@ class Music:
             self.MusicNow = 0
         else:
             self.MusicNow += 1
-        self.MusicLastPosistion=0
+        self.MusicLastPosistion = 0
         self.LoadAndPlay()
 
     def Pause(self):
@@ -65,7 +64,7 @@ class Music:
 
     def GetMusicName(self):
         return self.MusicList[self.MusicNow]
-    
+
     def IsPlaying(self):
         return mixer.music.get_busy()
 

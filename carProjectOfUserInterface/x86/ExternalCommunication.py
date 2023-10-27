@@ -1,5 +1,5 @@
 import time
-from LogSystem import Log
+from ExternalFileController import Log
 
 
 class SerialClass:
@@ -19,9 +19,9 @@ class SerialClass:
             if read != "\n" and read != "":
                 read = eval(read.strip())
                 return read
-        except Exception as err:
-            self.Log.BuildLog("Communication Read", err)
-
+        except:
+            pass
+        
     def ProtocalReceive(self):
         Start = b'\x01'  # 开头标识
         End = b'\x02'    # 尾部标识

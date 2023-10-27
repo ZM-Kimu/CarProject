@@ -1,0 +1,102 @@
+[1:english,2:chinese]
+$Connect.Choose
+Choose the Arduino port
+请选择Arduino所在的串口
+$Connect.Button
+Connect
+连接
+$Connect.Auto.Button
+AutoDetect
+自动检测
+$Connect.Auto.Detecting1
+Detecting now...
+正在检测中...
+$Connect.Auto.Detecting2
+It won't take too soon...
+很快就好
+$Connect.Auto.Detail.Port
+Proccessing in port 
+正在处理端口
+$Connect.Auto.Found.Port
+Find device in 
+设备位于
+$Connect.Auto.Found.Bandrate
+bandrate is 
+波特率为
+$Connect.Auto.Error.Title
+Failed To Detect
+检测失败
+$Connect.Auto.Error.Content
+Cannot found the specified device, please check whether the connection or Arduino is OK.
+未找到指定设备，请检查设备是否正常连接或正确刷入程序。
+$Connect.Error.Title
+Failed To Connect
+连接失败
+
+
+$Dashboard.LeftLight
+←TurnLeft
+←左转
+$Dashboard.RightLight
+TurnRight→
+右转→
+$Dashboard.EMEROn
+Turn On EMER Light
+应急灯开
+$Dashboard.EMEROff
+Turn Off EMER Light
+应急灯关
+$Dashboard.Error
+Dashboard Error
+仪表板错误
+
+$Music.None
+No song playing
+没有歌曲在播放
+$Music.Import
+Import music
+导入音乐
+$Music.Next
+Next
+下一首
+$Music.Previous
+Previous
+上一首
+$Music.Pause
+Pause
+暂停
+$Music.Unpause
+Unpause
+播放
+
+
+$Operate.Restart
+Restart
+重启
+$Operate.Exit
+Exit
+退出
+$Operate.Restart.Warning
+To Exit the main program, you need press Exit button 2 times.
+欲重启主应用程序，请双击重启按钮。
+$Operate.Exit.Warning
+To restart the main program, you need press Restart button 2 times.
+欲退出主应用程序，请双击退出按钮。
+
+
+$Loading.Modules.Now
+Loading modules Now
+加载模块中
+$Loading.Modules.Completed
+Loading Completed
+加载完毕
+
+
+
+
+
+
+
+$Other.TransferToDashboard.Title
+Error when Transfer Dashboard
+切换到仪表板时出错
